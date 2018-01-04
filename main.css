@@ -1,0 +1,48 @@
+@font-face {
+    font-family: Luna;
+    src: url(Luna.ttf);
+}
+
+body{
+  background-color: #494949;
+}
+
+.logo
+{
+  padding-top: 15%;
+}
+
+.buttons{
+  word-spacing: 100px;
+}
+
+.top{
+  height: 103%;
+}
+
+.other{
+  background-color: #c1973c;
+  position: absolute;
+  left:0;
+  right: 0;
+  height: 120%;
+  padding: 30px;
+}
+
+h1, p {
+  font-family: luna;
+  color: white;
+}
+
+footer
+{
+  font-size: 14pt;
+  font-family: Arial;
+  background-color: #494949;
+  color: white;
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 10%;
+  bottom: 0;
+}
